@@ -1,4 +1,17 @@
+*.swp
+*.org
+*.log
+*.bak
+.idea/
+*.dist
+.settings
+.project
+.buildpath
+.DS_Store
+._*
+
 _config.yml
 _site/*
 *Thumbs.db
 Gemfile.lock
+
